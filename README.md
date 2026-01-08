@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm prerna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrernaa&label=Profile%20views&color=0e75b6&style=flat" alt="prrernaa" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 🤝 I’m looking for help with **full stack development**
+- 🤝 I’m looking for help with **Backend Java Development**
 
-- 💬 Ask me about **html , css ,javascript , reactjs etc**
+- 💬 Ask me about **html , css ,java , oops , spring boot , hibernate , jpa etc**
 
-- 📫 How to reach me **prernajangra8@gmail.com**
+- 📫 How to reach me **prernajangra02@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
