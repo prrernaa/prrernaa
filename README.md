@@ -1,28 +1,78 @@
-<h1 align="center">Hi 👋, I'm prerna</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi, I'm Prerna Jangra 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prrernaa&label=Profile%20views&color=0e75b6&style=flat" alt="prrernaa" /> </p>
+**Java Backend Developer** · Spring Boot · Microservices · REST APIs · PostgreSQL
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prrernaa" alt="prrernaa" /></a> </p>
+---
 
-- 🌱 I’m currently learning **DevOps**
+### 🧑‍💻 About Me
 
-- 🤝 I’m looking for help with **Backend Java Development**
+- 🏢 Software Engineer – Backend at **Rosmerta Technologies** (Feb 2024 – Present)
+- ⚡ Built **100+ production REST APIs** across VTS, BFSI, Ticketing, and Enterprise domains
+- 🚀 Led **Java 11 → 17 upgrade** across 6 live production services
+- 🗺️ Delivered **state-wise migrations** for AIS 140 Surakshit Safar across **8 Indian states**
+- 🔐 Expertise in **JWT auth, RBAC, Spring Security**, and SQL performance tuning
+- 🌱 Currently learning: **Spring Boot Microservices (advanced)** · **AWS core services** · **Docker**
+- 📫 Reach me: **prernajangra02@gmail.com**
+- 🔗 LinkedIn: [linkedin.com/in/prernajangra](https://linkedin.com/in/prernajangra)
 
-- 💬 Ask me about **html , css ,java , oops , spring boot , hibernate , jpa etc**
+---
 
-- 📫 How to reach me **prernajangra02@gmail.com**
+### 🛠️ Tech Stack
 
-- ⚡ Fun fact **I think I am funny**
+![Java](https://img.shields.io/badge/Java_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker_(basic)-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prerna jangra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prerna jangra" height="30" width="40" /></a>
-<a href="https://instagram.com/_pr.erna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_pr.erna_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prernajangra1124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prernajangra1124" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 📌 Pinned Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prrernaa&show_icons=true&locale=en" alt="prrernaa" /></p>
+#### 🧾 [expense-tracker-api](https://github.com/prrernaa/expense-tracker-api)
+> Personal project · Java 21 · Spring Boot · PostgreSQL · JWT · Apache POI
+
+A production-style personal finance REST API built independently to practice clean architecture outside of work.
+- JWT authentication & user registration
+- Full expense CRUD with category management & date-range filtering
+- Excel export via Apache POI
+- Centralized exception handling & structured API responses
+
+---
+
+### 📊 Notable Work at Rosmerta (Production — private repos)
+
+| Project | Stack | Impact |
+|---|---|---|
+| AIS 140 Surakshit Safar (VTS) | Spring Boot · PostgreSQL | 8-state platform · 30–40% query speedup |
+| Central Login Service (SSO) | Spring Boot · Spring Security | Multi-state single sign-on |
+| Ticketing Module | Spring Boot · PostgreSQL · Redis | 500+ tickets/month · 30–40% faster response |
+| Pravesh – Visitor Mgmt | Spring Boot · PostgreSQL | Full OTP + approval + lifecycle workflow |
+| MIS Stock & Indent Modules | Spring Boot · MS SQL | ERP integration · B2B/B2C/VTS sales |
+| Card Embossing (BFSI) | Spring Boot · MS SQL · Thymeleaf | Automated text→Excel for card printing |
+| Java 11 → 17 Upgrade | Java 17 · Maven | 6 production services modernised |
+
+---
+
+### 🏅 Certifications
+
+- ✅ **Java Backend Development** – GeeksforGeeks Live Course (12 weeks)
+- ✅ **MongoDB** – Certified
+- 🔄 Exploring: Spring Boot Microservices · AWS
+
+---
+
+### 📈 GitHub Stats
+
+![Prerna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrernaa&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prrernaa&layout=compact&hide_border=true&langs_count=6)
+
+---
+
+*Open to mid-to-senior Java backend roles at product-driven tech companies. Let's connect!*
