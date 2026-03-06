@@ -9,7 +9,7 @@
 - 🏢 Software Engineer – Backend at **Rosmerta Technologies** (Feb 2024 – Present)
 - ⚡ Built **100+ production REST APIs** across VTS, BFSI, Ticketing, and Enterprise domains
 - 🚀 Led **Java 11 → 17 upgrade** across 6 live production services
-- 🗺️ Delivered **state-wise migrations** for AIS 140 Surakshit Safar across **8 Indian states**
+- 🗺️ Core contributor to AIS 140 Surakshit Safar — a government vehicle tracking platform now live across 19 Indian states
 - 🔐 Expertise in **JWT auth, RBAC, Spring Security**, and SQL performance tuning
 - 🌱 Currently learning: **Spring Boot Microservices (advanced)** · **AWS core services** · **Docker**
 - 📫 Reach me: **prernajangra02@gmail.com**
@@ -50,13 +50,13 @@ A production-style personal finance REST API built independently to practice cle
 
 | Project | Stack | Impact |
 |---|---|---|
-| AIS 140 Surakshit Safar (VTS) | Spring Boot · PostgreSQL | 8-state platform · 30–40% query speedup |
+| AIS 140 Surakshit Safar (VTS) | Spring Boot · PostgreSQL | Live in 19 Indian states · 30–40% query speedup |
 | Central Login Service (SSO) | Spring Boot · Spring Security | Multi-state single sign-on |
 | Ticketing Module | Spring Boot · PostgreSQL · Redis | 500+ tickets/month · 30–40% faster response |
 | Pravesh – Visitor Mgmt | Spring Boot · PostgreSQL | Full OTP + approval + lifecycle workflow |
 | MIS Stock & Indent Modules | Spring Boot · MS SQL | ERP integration · B2B/B2C/VTS sales |
 | Card Embossing (BFSI) | Spring Boot · MS SQL · Thymeleaf | Automated text→Excel for card printing |
-| Java 11 → 17 Upgrade | Java 17 · Maven | 6 production services modernised |
+| Java 11 → 17 Upgrade | Java 17 · Maven | 10+ production services modernised |
 
 ---
 
