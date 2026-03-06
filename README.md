@@ -71,6 +71,7 @@ A production-style personal finance REST API built independently to practice cle
 ### 📈 GitHub Stats
 
 ![Prerna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrernaa&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Prerna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prrernaa&show_icons=true&locale=en&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prrernaa&layout=compact&hide_border=true&langs_count=6)
 
 ---
