@@ -38,6 +38,9 @@
 #### 🧾 [expense-tracker-api](https://github.com/prrernaa/expense-tracker-api)
 > Personal project · Java 21 · Spring Boot · PostgreSQL · JWT · Apache POI
 
+#### 🧾 [notification-service](https://github.com/prrernaa/notification-service))
+> Personal project · Java 21 · Spring Boot · PostgreSQL · apache kafka · gmail SMTP · FCM 
+
 A production-style personal finance REST API built independently to practice clean architecture outside of work.
 - JWT authentication & user registration
 - Full expense CRUD with category management & date-range filtering
